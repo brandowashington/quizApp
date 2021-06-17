@@ -1,0 +1,19 @@
+{
+	"description": "What is a variable?",
+	"alternatives":
+	[
+		{
+			"text": "a way of iterating through a list"
+		},
+		{
+			"text": "A type of data structure"
+		},
+		{
+			"text": "the method used to send electronic mail between one another"
+		},
+		{
+			"text": "a way to store information to be referenced",
+			"isCorrect": true
+		}
+	]
+}
